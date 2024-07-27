@@ -3,6 +3,7 @@
 🌐 Aspiring Cloud & DevOps Engineer | 🎓 Aissms Institute of information technology 
 
 🔧 Currently honing my skills in:
+   - Core java ,Advance java
    - ☁️ Cloud Technologies: AWS, GCP
    - 🛠️ DevOps Tools: Docker, Kubernetes, Jenkins
    - 📊 Monitoring: Grafana
